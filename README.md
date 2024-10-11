@@ -30,11 +30,13 @@ C:\Users\hugea\sampleFile2.dec
 RED wings
 
 ................................................................................................................
+
 The second way to use the program is running the JAR file and using the interface. However, there are
 some issues with the program, so if you want to use it, you will have to restart the application between
 excutions, do not (Encrypt, Decrypt) in the same window, instead, (Encrypt, restart, Decrypt) same goes for
-(Encrypt, Encrypt) or (Decrypt, Decrypt) you must restart the JAR between each excution.
+(Encrypt, Encrypt) or (Decrypt, Decrypt) you must restart the JAR between each execution.
 
 
 ...................................................................
+
 This was written by: Ali Al-Muslim
