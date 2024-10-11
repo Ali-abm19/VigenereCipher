@@ -14,7 +14,7 @@ the third line is for the key used in Encryption.
 **note that the Decrypted file is saved with program files
 
 1
-C:\\Users\hugea\OneDrive - King Fahd University of Petroleum & Minerals (KFUPM)\Term202\ICS254-Dicrete Structures II\sampleFile.txt
+C:\Users\hugea\sampleFile.txt
 C:\Users\hugea\Desktop\dodo
 
 2
@@ -22,11 +22,11 @@ C:\Users\hugea\Desktop\dodo.dec
 RED
 
 1
-C:\Users\hugea\OneDrive - King Fahd University of Petroleum & Minerals (KFUPM)\Term202\ICS254-Dicrete Structures II\sampleFile2.txt
+C:\Users\hugea\sampleFile2.txt
 C:\Users\hugea\Desktop\878t
 
 2
-C:\Users\hugea\OneDrive - King Fahd University of Petroleum & Minerals (KFUPM)\Term202\ICS254-Dicrete Structures II\sampleFile2.dec
+C:\Users\hugea\sampleFile2.dec
 RED wings
 
 ................................................................................................................
